@@ -1,0 +1,27 @@
+{
+  "name": "catify-plus",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/helinzamar/catify-plus.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/helinzamar/catify-plus/issues"
+  },
+  "homepage": "https://github.com/helinzamar/catify-plus#readme",
+  "description": "",
+  "dependencies": {
+    "animejs": "^4.0.2",
+    "axios": "^1.9.0"
+  },
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
